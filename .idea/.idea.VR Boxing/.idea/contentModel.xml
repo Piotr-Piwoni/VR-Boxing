@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ppiwoni2020\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ppiwoni2020\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_VR Boxing.-903520041.00" t="ExcludeRecursive" />
+    <e p="D:\Elam Projects\Unity Projects\Games\VR Boxing" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Packages" t="Include">
+          <e p="Hierarchy 2" t="Include">
+            <e p="Editor" t="Include">
+              <e p="GroupSelection.cs" t="Include" />
+              <e p="HierarchyCanvas.cs" t="Include" />
+              <e p="HierarchyEditor.cs" t="Include" />
+              <e p="HierarchyFolderEditor.cs" t="Include" />
+              <e p="HierarchyLocalDataEditor.cs" t="Include" />
+              <e p="HierarchyResources.cs" t="Include" />
+              <e p="HierarchySettings.cs" t="Include" />
+              <e p="IHierarchyElement.cs" t="Include" />
+              <e p="IHierarchyShelf.cs" t="Include" />
+              <e p="InstantInspector.cs" t="Include" />
+              <e p="ObjectCustomization.cs" t="Include" />
+              <e p="OpenSettings.cs" t="Include" />
+              <e p="SceneRenamePopup.cs" t="Include" />
+              <e p="SelectionsRenamePopup.cs" t="Include" />
+            </e>
+            <e p="Runtime" t="Include">
+              <e p="CustomRowItem.cs" t="Include" />
+              <e p="HierarchyFolder.cs" t="Include" />
+              <e p="HierarchyLocalData.cs" t="Include" />
+              <e p="Texture2DExtensions.cs" t="Include" />
+              <e p="UIElements.cs" t="Include" />
+              <e p="VisualElementExstensions.cs" t="Include" />
+            </e>
+          </e>
+          <e p="QuickOutline" t="Include">
+            <e p="Resources" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="OutlineFill.shader" t="Include" />
+                <e p="OutlineMask.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Outline.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Player" t="Include">
+            <e p="AI" t="Include">
+              <e p="AICore.cs" t="Include" />
+              <e p="AIMovement.cs" t="Include" />
+            </e>
+            <e p="Health System" t="Include">
+              <e p="HealthBar.cs" t="Include" />
+              <e p="HealthSystem.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="PlayerMovement.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="VR Boxing.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
